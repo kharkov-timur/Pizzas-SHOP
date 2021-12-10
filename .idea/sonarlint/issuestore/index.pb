@@ -1,0 +1,83 @@
+
+;
+.prettierrc,2\0\20137a9e94744624390b6748bc96df5ca1579b71
+O
+src/redux/actions/cartAction.js,b\6\b60acbf7bfa51015742d7826ca2fe81211c769b4
+Q
+!src/redux/actions/filterAction.js,3\c\3c58de674bd71171dde1f29274e4ee624ebb2889
+T
+$src/redux/reducers/filtersReducer.js,6\4\641ecf0e539ed403894a2eb900dd577f11a6f7d3
+B
+src/redux/store.js,b\f\bf7810bad55c8c031251188a5290278db09e4dfc
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+B
+src/redux/types.js,3\5\355899fecbb956130ebb1db8c01098d4c793f689
+P
+ src/components/Loader/Loader.jsx,4\3\43ed491f121b98f18e599fa041d040c1a2797a08
+K
+src/redux/reducers/index.js,a\3\a3e09697439a4fe8dee09188a82acaa2729bacd4
+S
+#src/redux/reducers/pizzasReducer.js,d\4\d4f17575050abb124d98c2b41a22d15c52a1e1b4
+E
+src/styles/fonts.scss,f\3\f3c9de67de9acd8176dba5e889799edb753a76e0
+J
+src/constants/constants.js,0\3\037a986b1505dda68516a7f7fa3f88d6521ccf58
+a
+1src/components/Categories/CategoriesContainer.jsx,9\b\9bc26fbdf1fe29f9ed4f5dd234d4bd4afdf2ef1b
+a
+1src/components/PizzaBlock/PizzaBlockContainer.jsx,d\7\d7ae7cfa20faaca19d8b15646c83a5f3682ede9d
+N
+src/styles/libs/normalize.scss,8\7\876b88919cf1b63be29f71da471f766b79797b78
+X
+(src/components/PizzaBlock/PizzaBlock.jsx,5\7\576a8ce1b7c9d7d7cf4c4f9cb0248e8602d11e63
+I
+src/styles/variables.scss,b\8\b888b50999fe3e5643436bf58335de9ccc2a91da
+a
+1src/components/PizzaBlock/ButtonAdd/ButtonAdd.jsx,c\2\c243d9fd689dba6afbfc6548b820b00568391794
+V
+&src/pages/Cart/CartEmpty/CartEmpty.jsx,4\6\463d0645eae1327f8eee05c4986ad129db4e203b
+P
+ src/components/Button/Button.jsx,d\5\d53b799cb0e476e9bb93560ee5de6f1449dd0677
+X
+(src/components/Button/button.module.scss,9\c\9c2dc9dde4e01096ef3c0428f423190d257c26fe
+X
+(src/components/Categories/Categories.jsx,3\1\313acf65bc220361597c65d4e468bf7eb57e9619
+Y
+)src/components/SortPopup/sort.module.scss,3\8\3899774f1ca5504b7f794fba8e1fa543a26e78cc
+_
+/src/components/SortPopup/SortPopupComponent.jsx,9\f\9f05f2a58f2cf84b33e95b4c17625865e494215e
+G
+src/components/index.js,0\c\0c0fd6a370cd10350462b46937e98f903bcb1435
+`
+0src/components/PizzaBlock/pizzaBlock.module.scss,9\e\9e6f4016f95de5bc9af663c1a4501047c6acf227
+`
+0src/components/Categories/categories.module.scss,8\4\849c8734ea2bd11650ab71a1109c84f71d32dbb1
+T
+$src/pages/Cart/CartItem/CartItem.jsx,f\c\fc4c586bc23fcc7227df16941b60c70fcee90f8e
+V
+&src/components/SortPopup/SortPopup.jsx,4\c\4c507de88040b3e3b1af254cdf2415ad0dafd0d6
+B
+src/pages/index.js,c\1\c16ef34da304c300e7b6c91b3a47fea77c278c7a
+G
+src/pages/Home/Home.jsx,1\c\1c6d799d69cd20dbb78bcd407e43cd5bbff02fec
+:
+
+src/App.js,1\e\1e43fa63aecd2127be034b3fb9d4caa172275714
+C
+src/styles/app.scss,1\0\1033ffd6cb7ffd2c7d9a545c1bffd66860d87a28
+P
+ src/pages/Cart/CartContainer.jsx,2\7\2773be89c8d43ed0f7dbf7ee2c32d1471039abe7
+G
+src/pages/Cart/Cart.jsx,e\8\e8780b9498d4bdf8ddc3002d48b3294db7813de6
+O
+src/pages/Cart/cart.module.scss,c\9\c939899bc6eceb0b0c46709abd617838f462ff3c
+X
+(src/components/Header/header.module.scss,4\1\41e0e37d86a2421e3252897f47ca3deb46b52389
+Q
+!src/redux/reducers/cartReducer.js,7\f\7f8eadc30e5ec32c94c6b5dce8947550004c3b1a
+P
+ src/components/Header/Header.jsx,c\1\c190362ff4dd89e9c16838b502ca303aeecc3db4
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
