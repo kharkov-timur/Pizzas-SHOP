@@ -3,7 +3,7 @@
 Link to visit
 https://pizzas-shop.vercel.app/
 
-Stack
+## Stack
 - React
 - React prop types
 - React module
