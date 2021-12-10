@@ -5,6 +5,7 @@ https://pizzas-shop.vercel.app/
 
 ## Stack
 - React
+- React hooks
 - React prop types
 - React module
 - Redux
