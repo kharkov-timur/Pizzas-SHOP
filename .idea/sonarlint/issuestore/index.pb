@@ -78,6 +78,3 @@ Q
 !src/redux/reducers/cartReducer.js,7\f\7f8eadc30e5ec32c94c6b5dce8947550004c3b1a
 P
  src/components/Header/Header.jsx,c\1\c190362ff4dd89e9c16838b502ca303aeecc3db4
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
